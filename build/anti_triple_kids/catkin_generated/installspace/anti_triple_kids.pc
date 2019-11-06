@@ -1,0 +1,8 @@
+prefix=/home/molguitianzn/my_git/SEURoboCup2019/install
+
+Name: anti_triple_kids
+Description: Description of anti_triple_kids
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/molguitianzn/my_git/SEURoboCup2019/install/lib 
+Requires: 

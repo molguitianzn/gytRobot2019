@@ -1,0 +1,2 @@
+set(simulation_MESSAGE_FILES "/home/molguitianzn/wtf/SEURoboCup2019/src/simulation/msg/Task.msg;/home/molguitianzn/wtf/SEURoboCup2019/src/simulation/msg/Stand.msg;/home/molguitianzn/wtf/SEURoboCup2019/src/simulation/msg/GameData.msg;/home/molguitianzn/wtf/SEURoboCup2019/src/simulation/msg/BodyAngles.msg")
+set(simulation_SERVICE_FILES "/home/molguitianzn/wtf/SEURoboCup2019/src/simulation/srv/ImageInfo.srv")

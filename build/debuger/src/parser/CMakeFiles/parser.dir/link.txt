@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/molguitianzn/wtf/SEURoboCup2019/devel/lib/libparser.a  CMakeFiles/parser.dir/parser.cpp.o CMakeFiles/parser.dir/parser_automoc.cpp.o
+/usr/bin/ranlib /home/molguitianzn/wtf/SEURoboCup2019/devel/lib/libparser.a

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- start robot -->
+  <node pkg="anti_triplekids" type="anti_triplekids" name="anti_triplekids" args="anti_triplekids $(find config)/host.cfg" output="screen"/>
+</launch>

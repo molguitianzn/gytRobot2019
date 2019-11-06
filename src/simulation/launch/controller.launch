@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- start controllers -->
+  <node pkg="simulation" type="unirobot" name="redrobot" args="redrobot $(find config)" output="screen"/>
+  <node pkg="simulation" type="unirobot" name="bluerobot" args="bluerobot $(find config)" output="screen"/>
+</launch>

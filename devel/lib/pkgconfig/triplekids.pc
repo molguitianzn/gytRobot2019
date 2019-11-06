@@ -1,0 +1,8 @@
+prefix=/home/molguitianzn/wtf/SEURoboCup2019/devel
+
+Name: triplekids
+Description: Description of triplekids
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/molguitianzn/wtf/SEURoboCup2019/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/molguitianzn/wtf/SEURoboCup2019/install
+
+Name: anti_triplekids
+Description: Description of anti_triplekids
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/molguitianzn/wtf/SEURoboCup2019/install/lib 
+Requires: 
